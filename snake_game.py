@@ -55,10 +55,10 @@ def move():
 
 # Keyboard bindings
 map.listen()
-map.onkeypress(go_up, "w")
-map.onkeypress(go_down, "s")
-map.onkeypress(go_left, "a")
-map.onkeypress(go_right, "d")
+map.onkeypress(go_up, "Up")
+map.onkeypress(go_down, "Down")
+map.onkeypress(go_left, "Left")
+map.onkeypress(go_right, "Right")
 
 
 
