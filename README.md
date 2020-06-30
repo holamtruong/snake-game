@@ -9,4 +9,4 @@ Thanks for the idea and tutorial video from Christian Thompson (https://gist.git
 
 #### Demo
 
-![](https://raw.githubusercontent.com/holamtruong/snake-game/master/demo_version_1.0.gif?token=AEERSI2LK72II42MEJK2SYK67OFTC)
+![](https://raw.githubusercontent.com/holamtruong/snake-game/master/demo_version_1.0.gif)
