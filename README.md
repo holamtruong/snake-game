@@ -7,6 +7,6 @@ Thank idea and tutorial video from Christian Thompson (https://gist.github.com/w
 - speed up the snake, after hunting food
 
 
-####Demo
+#### Demo
 
 ![](https://raw.githubusercontent.com/holamtruong/snake-game/master/demo_version_1.0.gif?token=AEERSI2LK72II42MEJK2SYK67OFTC)
