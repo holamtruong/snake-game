@@ -185,6 +185,7 @@ while True:
         x = segments[index-1].xcor()
         y = segments[index-1].ycor()
         segments[index].goto(x, y)
+        print("x: {0}, y: {1}".format(x, y))
 
     # Move segment 0 to where the head is
     if len(segments) > 0:
