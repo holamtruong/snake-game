@@ -228,7 +228,7 @@ while True:
     time.sleep(snake_speed)
 
 
-# Keep the
+# Keep the screen
 map.mainloop()
 
 # ----------------------------------------------------------
