@@ -1,4 +1,5 @@
-A simple Snake Game in Python 3.
+
+# A simple Snake Game in Python 3.
 Thanks for the idea and tutorial video from Christian Thompson (https://gist.github.com/wynand1004)
 
 ### Version 1.0
