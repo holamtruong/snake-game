@@ -6,6 +6,8 @@ import turtle
 import time
 # Random number library
 import random
+# Sound
+import winsound
 # ----------------------------------------------------------
 
 
@@ -170,6 +172,9 @@ while True:
 
         # Increase the score
         score += 10
+
+        # Echo sound
+        winsound.Beep(1000, 50)
 
         # Game record
         if score > high_score:
